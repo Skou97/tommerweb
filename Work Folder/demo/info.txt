@@ -1,0 +1,11 @@
+
+Hjemme side til ny startet Virksomhed: MF Bolig ivs.
+    . Api DAWA.AWS, Map Api GEO
+    . SMS opdateringer
+    . Kunde login
+    . CMS WP / React CMS system
+    . Før efter billedere
+    . SVG Animation
+
+Vi skal arbejde med ny teknologier samt lave et godt UX desing som er nemt at kunne over se samt readiger lidt i.
+Vi har fådt som krav at der skulle være et map med en geo zone som viser hvor der er gratis kørsel (Vi vil samt lave en post nummer pris beragner til map'et)
