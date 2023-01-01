@@ -22,7 +22,7 @@
     "open-browser-webpack-plugin": "0.0.2",
     "rimraf": "2.5.4",
     "style-loader": "0.13.1",
-    "webpack": "1.13.2",
+    "webpack": "5.75.0",
     "webpack-dashboard": "0.2.0",
     "webpack-dev-server": "1.16.2"
   }
